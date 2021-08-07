@@ -102,7 +102,7 @@
                             </tr>
                         @endforeach
                         </tbody>
-                        <tfoot class="table-primary">
+                        {{-- <tfoot class="table-primary">
                         <tr>
                             <th class="text-center align-middle" scope="col">Mã</th>
                             <th class="text-center align-middle" scope="col">Tên tỉnh thành</th>
@@ -112,7 +112,7 @@
                             <th class="text-center align-middle" scope="col">Ngày xoá</th>
                             <th class="text-center align-middle" scope="col">Chức năng</th>
                         </tr>
-                        </tfoot>
+                        </tfoot> --}}
                     </table>
                 </div>
             </div>
